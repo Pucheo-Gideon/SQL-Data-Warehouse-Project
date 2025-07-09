@@ -1,5 +1,8 @@
 # Data Warehouse and Analytics Projects 
 
+### Objective: 
+Build a consolidated, modern Data Warehouse with SQL including Data wrangling techniques for reporting and business decision making
+
 ## General Principles 
 -  Naming conventions: Use snake-case with lowercase letters and underscore(_) to separate words.
 -  Language: Use English for all names.
